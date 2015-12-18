@@ -14,7 +14,7 @@ package sudoku;
  * @version 2015.11.*
  ***********************************
  *
- * CÓDIGO ADICINAL (SI NECESARIO)
+ * Cï¿½DIGO ADICINAL (SI NECESARIO)
  *
  ***********************************
  */
@@ -24,9 +24,8 @@ public class SudokuSolver {
 	 * @return nombres de los alumnos (autores de la practica) (1 por linea).
 	 */
 	public String authors() {
-		// TODO;
-		return "N (1 PER LINE)";
-	}
+		return "Manuel Alvarez, \n Fernando Arruti, \n Juan JosÃ© de Castro, \n Gabriel Via";
+	} 
 
 	/**
 	 * Performs constraint satisfaction on the given Sudoku board using MAC: Arc Consistency(AC) combined with Chronological Backtracking.
@@ -39,7 +38,7 @@ public class SudokuSolver {
 	* TODO
 	**************************************
 	*
-	* ¡ ESTO ES LO QUE HAY QUE COMPLETAR!
+	* ï¿½ ESTO ES LO QUE HAY QUE COMPLETAR!
 	*
 	**************************************
 	*/		return board;
